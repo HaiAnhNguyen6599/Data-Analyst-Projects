@@ -1,0 +1,8 @@
+My responsible:
+
++ Clean data, handle error and null data.
++ Assessing factors affecting house prices in California.
++ Use several charts to show the correlation between several factors that directly affect home prices.
+
+
+Techonologies used: Python, Matplotlib, Seaborn, Numpy, Pandas

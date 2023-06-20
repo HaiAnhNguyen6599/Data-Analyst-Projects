@@ -1,0 +1,9 @@
+Avaiable at: https://drive.google.com/drive/folders/1G4GaHWHk503a90UZqdSTZk_QUjTMPp31?pli=1 
+
+My responsible:
+- Make a report about the Sales Performance of Superstore business
+- Analyze products bring the most profit for the company
+- Find out the consumption trend of each product in each different market.
+- Review about the return rate of the business
+
+Technologies used: Power BI, Power BI Editor

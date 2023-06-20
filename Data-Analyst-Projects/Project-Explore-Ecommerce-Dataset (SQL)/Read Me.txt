@@ -1,0 +1,4 @@
+My responsibilities:	
++ The project using the public Ecommerce dataset on Google Bigquery.
++ Calculate key e-commerce metrics (page views, total visibility, etc over time).
++ Summarize which traffic source the revenue comes from analyzing customer buying trends.

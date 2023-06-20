@@ -1,0 +1,9 @@
+My responsible:
++ Clean data, handle error and null data.
++ Use the data provided to calculate each customer's RFM using the quintile method
++ Segment customer segments based on calculated RFM scores
++ Perform distribution plotting
++ Find out which segments need more attention to optimize business profits
+
+
+Techonologies used: Python, Matplotlib, Seaborn, Numpy, Pandas
